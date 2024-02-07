@@ -2,7 +2,7 @@
 
 **Project is under construction**
 
-Orders API is a project designed to streamline order management processes within e-commerce platforms. Leveraging the power of Nest.js, RabbitMQ, and JWT token authentication, this project provides a secure, scalable, and efficient solution for handling all orders with utmost reliability.
+Orders API is a micro-service projec to streamline order management processes within e-commerce platforms. Leveraging the power of Nest.js, RabbitMQ, and JWT token authentication, this project provides a secure, scalable, and efficient solution for handling all orders with utmost reliability.
 
 1. Nest.js Framework: Built on top of Nest.js, a progressive Node.js framework, Orders API offers a solid foundation for building efficient, maintainable, and scalable server-side applications. Its modular architecture and dependency injection system simplify the development process, allowing for easy integration of various components.
 
